@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33130.400
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEandClustering", "DEandClustering\DEandClustering.csproj", "{C96931A9-5467-4489-87DC-4E64ACE643A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEandClustering", "DEandClustering\DEandClustering.csproj", "{C96931A9-5467-4489-87DC-4E64ACE643A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEandZFIS", "..\..\..\Documents\8 sem\ZFIS\ZFIS\ZFIS\DEandZFIS.csproj", "{F3512082-B82F-4498-BD97-47809CD01C93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C96931A9-5467-4489-87DC-4E64ACE643A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C96931A9-5467-4489-87DC-4E64ACE643A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C96931A9-5467-4489-87DC-4E64ACE643A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3512082-B82F-4498-BD97-47809CD01C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3512082-B82F-4498-BD97-47809CD01C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3512082-B82F-4498-BD97-47809CD01C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3512082-B82F-4498-BD97-47809CD01C93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
