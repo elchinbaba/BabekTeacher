@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEandClustering", "DEandClu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEandZFIS", "..\..\..\Documents\8 sem\ZFIS\ZFIS\ZFIS\DEandZFIS.csproj", "{F3512082-B82F-4498-BD97-47809CD01C93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DE", "DE\DE.csproj", "{3D05910F-55BF-499D-A0FE-52ED5AC02A9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F3512082-B82F-4498-BD97-47809CD01C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3512082-B82F-4498-BD97-47809CD01C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3512082-B82F-4498-BD97-47809CD01C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D05910F-55BF-499D-A0FE-52ED5AC02A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D05910F-55BF-499D-A0FE-52ED5AC02A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D05910F-55BF-499D-A0FE-52ED5AC02A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D05910F-55BF-499D-A0FE-52ED5AC02A9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
